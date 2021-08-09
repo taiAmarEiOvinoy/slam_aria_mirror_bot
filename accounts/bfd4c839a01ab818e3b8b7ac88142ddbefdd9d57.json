@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "folkloric-byway-296314",
+  "private_key_id": "bfd4c839a01ab818e3b8b7ac88142ddbefdd9d57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+gLxVulvyaSzq\nrjjX81f/ehG8yf5ijkFYBhKgLJDd34IugcVf4A6Zbi5jSYBHG2KYVoWa6KEyhwvD\nSSKglA6/3Z2dgrlx5mpkAStKUMFZpCMVoRwaH1gfSMmi9dgEKrhvPM8Q9fCS8uni\nQjHf8cEHNPzUvmPqgQxbCE6ExykyWWCZIUVO1p2pfq0+6GGvuK5I2tl08MH8ImXn\nxV7U8sXOKu1g3pJCij62/dDWe+oRciPxQlYt4MoGNK/1k3o2VRJ7SjgOy4Qumrim\n1dUB7i33keqFcBH9hkDV3HiChpXOzfh4hqyi7cC3uTE+qqGP0zw3j/pGs0oBnG+f\n9K2owf1dAgMBAAECggEABvCC6880Fj/akQSeXCTTKc1KjslU6PDW/zE0GyhEcVtO\nT19kJI/xjYlD9f3xcaWqZnOQaQoxr7jXpton1sL4npNLcIzDMJuneH51Ez9J1ngc\n3GbYB+OTFDX/PQkeQK3wYKz4ZgfE0bWOQN25xLdLxCAcAwFEe9W48NVRTD5CXpZu\nqVvHpk//M6Il2h6oZ2UAUVDoSKYKkrOetICf3towmDEcP2dYHdNYx71dRlUziumv\nHnXAV8LK+/9kqrp3KsL0cnYIEy76cazc8P7visdrmn/FvdoEZtw2FLKY8vCfiQZ6\n2/GlnOcir5aFmC9mL69yXeSntYQTOChclND/lOTJgQKBgQD9VVF8uuv9DgUVNpb1\n0XXuX8UUArsAaOVc6piqdD6AKvl4oOxR+qECLcaX60GDc/wNtBYSuw1+N58yJ/UF\n8ceZ8nzuE8ar90pPxVoxzFLZtWDulxBaPz401ZXOc9AZacNljJFU1+j6dlcOFpXS\nDwNlipKu59MALSn75ihQng+ZrQKBgQDAghoqlBjutlpWTlJwAkh/5PNJCE0Aeg3F\n/b83QfUr3FgViyj9viOT2Y2dUjEe5mQRgVnbxWpqCIVDhvA/hU7cQHnN9fkpEiSX\nuIiE7cz4+fvFWrRngrzCDlul9fPFovLaJnP/FqUGKPKhr81/LUgBSDljKGzTxw1c\nFGtPnRDIcQKBgHk515mpVP4uNE53ZfvRtO5R09wEhnnmuEMjW9TNdY8dgW2xDAUa\nuutw/kR6ZkpCOU5Ra/Kgog9RDJQSvNSQY2SOviurOPnXhy7vEH8d+FOH0Q+7KC8X\nbmwX/OzjTKSskL1Ka80+2JTqBjSOqDjxyD1R92lNNBI0io+pDoeta2etAoGAATaQ\nraYDRjXV+edCc7w/8rZhphssSQ172ryPoOyEfANGdtRKrNau6LadQtmKv7QZ+1ZC\nV7U1x3dIR7Wo++1+IrsxSU/8gvq/Skl6asQI36TLpmG8804KnHp0r2YOZDdzqlZF\nstzUq2ZEqSovdFa3tnJbEjnl/auqdOMYDgdiXLECgYBj7Be0vf+zNoS8Kj1Ve2Uh\n8Qa4ckyymLfMYdBtoldG7otU1AiOxU9EP7WAGYDaDRIWVsiNKaqEbNg1loUVMxpZ\nqL77UzCJoMNLsjY4CR5bzEV8ynrcaIasA7keEmNBAU5dKZ2I6Ss+WuIOBj9gFC0Q\npCm2gyIDAv2u6MY8ogiZXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-4u6zuej35s99jg66mhohooewnv@folkloric-byway-296314.iam.gserviceaccount.com",
+  "client_id": "107329078566321606344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-4u6zuej35s99jg66mhohooewnv%40folkloric-byway-296314.iam.gserviceaccount.com"
+}
